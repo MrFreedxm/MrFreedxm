@@ -2,12 +2,11 @@
 
 I bring AI into people's lives, businesses and teams: from a personal assistant to a system that runs a company, installed on the client's side. Founder of ENMAI; before that, sales and working with businesses.
 
-**Pick five**
-- [demos](https://github.com/MrFreedxm/demos) - five things a small business can click: a bot that takes a request at 3 a.m., a CRM with your own stages, documents from a client card, a client base, an employee you build from skills
-- [claude-code-toolkit](https://github.com/MrFreedxm/claude-code-toolkit) - five hooks that turn "please remember to" into mechanisms: foreign text is data, agents wait for a yes, memory stays findable, claims get asked "fact or guess?"
-- [automate-this](https://github.com/MrFreedxm/automate-this) - record your screen while you do a routine, get back the steps and a script
-- [b2b-sales-box](https://github.com/MrFreedxm/b2b-sales-box) - what the sales box is and how it is built; showcase, no source
-- [mrfreedxm.github.io](https://mrfreedxm.github.io) - the page with all of it, in Russian and English
+**Open here**
+- [decision-or-default](https://github.com/MrFreedxm/decision-or-default) - a pre-show critic for AI-built visual work: is this a decision, or the default of its category?
+- [fact-or-guess](https://github.com/MrFreedxm/fact-or-guess) - a Stop hook for Claude Code: a concrete claim about your system without an opened source does not pass
+- [screencast-to-script](https://github.com/MrFreedxm/screencast-to-script) - record your screen while you do a routine, get back the steps and a script
+- [one-person-ai-shop](https://github.com/MrFreedxm/one-person-ai-shop) - how one person runs a company with an AI assistant as the builder: the layers, the guardrails, the numbers
 
 I build with Claude Code and Codex; the architecture, the briefs and the acceptance are mine, most of the typing is theirs.
 
