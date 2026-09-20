@@ -2,11 +2,6 @@
 
 I bring AI into people's lives, businesses and teams: from a personal assistant to a system that runs a company, installed on the client's side. Founder of ENMAI; before that, sales and working with businesses.
 
-**Building now**
-- an AI sales team in a box for a flower shop's B2B - first rollout, delivery in October 2026
-- Claude set up for a marketplace business owner as his operations desk
-- my own system: 414 parts - AI employees, memory, watchdogs, guardrails - that works while I sleep
-
 **Pick five**
 - [demos](https://github.com/MrFreedxm/demos) - five things a small business can click: a bot that takes a request at 3 a.m., a CRM with your own stages, documents from a client card, a client base, an employee you build from skills
 - [claude-code-toolkit](https://github.com/MrFreedxm/claude-code-toolkit) - five hooks that turn "please remember to" into mechanisms: foreign text is data, agents wait for a yes, memory stays findable, claims get asked "fact or guess?"
